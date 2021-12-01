@@ -139,7 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="dod.cpp" />
     <ClCompile Include="PR13.1.cpp" />
+    <ClCompile Include="sum.cpp" />
+    <ClCompile Include="var.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dod.h" />
